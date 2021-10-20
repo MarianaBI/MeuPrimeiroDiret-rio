@@ -1,0 +1,20 @@
+{
+    background-color: #D6D2D8;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+-art{
+    text-align: center;
+}
+
+.table{
+    border: none black;
+    border-radius: 5px;
+    background-color: black;
+}
+
+th{
+    padding-left: 20px;
+    background-color: #35cac5;
+}
