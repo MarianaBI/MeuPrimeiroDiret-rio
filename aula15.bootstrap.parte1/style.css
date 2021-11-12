@@ -1,0 +1,72 @@
+corpo {
+    dimensionamento da caixa : caixa de borda;
+    largura :  100 vw ;
+    altura :  100 vh ;
+    fundo : branco;
+}
+
+
+. header  nav {
+    preenchimento :  0  20 px ;
+}
+
+
+. exibição-2 , . display-4 {
+    alinhamento de texto : centro;
+    margem inferior :  35 px ;
+}
+. img {
+    largura :  50 rem ;
+    margem :  0 automático;
+}
+
+
+. mesa {
+    largura :  80 % ;
+    margem :  0 automático;
+}
+
+. carrossel {
+    largura :  30 rem ;
+    altura :  50 rem ;
+    margem :  0 automático;
+}
+
+
+/ * ===== JOGOS === * /
+
+. container {
+    largura :  100 vw ;
+    display : flex;
+    lacuna :  2 rem ;
+    margem inferior :  2 rem ;
+
+}
+
+. container  img {
+    altura :  15 rem ;
+}
+
+
+/ * ===== Sobre === * /
+. jumbotron {
+    preenchimento :  2 rem  0  2 rem  2 rem ;
+    margem inferior :  10 rem ;
+}
+
+/ * ===== rodapé === * /
+    
+rodapé {
+    plano de fundo :  # 343a40 ;
+    tamanho da fonte :  30 px ;
+    altura :  50 px ;
+    alinhamento de texto : centro;  
+ }
+
+ rodapé  p {
+    cor :  # 28a745 ;
+ }
+
+ rodapé  p  span {
+    cor :  # 007bff ;;
+ }

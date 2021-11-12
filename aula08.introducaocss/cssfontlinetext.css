@@ -1,0 +1,22 @@
+h1 {
+    alinhamento de texto : centro;
+    sombra do texto :  5 px  2 px vermelho;
+}
+
+. text1 {
+    alinhamento de texto : direita;
+    sombra do texto :  2 px  2 px lighteagreen;
+}
+
+. text2 {
+    alinhamento de texto : esquerda;
+    recuo do texto :  50 px ;
+    altura da linha :  1,5 ;
+    peso da fonte : negrito;
+}
+
+. text3 {
+    família da fonte : Impact , Haettenschweiler ,  'Arial Narrow Bold' , sans-serif;
+    tamanho da fonte :  25 px ;
+    altura da linha :  1,5 ;
+}

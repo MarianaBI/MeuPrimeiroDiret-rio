@@ -1,0 +1,15 @@
+corpo {
+    largura :  100 vw ;
+    altura :  100 ch ;
+    preenchimento :  1 rem ;
+}
+
+. header {
+    margem : 0,25 rem  1 rem ;
+}
+
+. divlista {
+    margem superior :  1 rem ;
+    margem inferior :  5 rem ;
+    largura :  50 rem ;   
+}
