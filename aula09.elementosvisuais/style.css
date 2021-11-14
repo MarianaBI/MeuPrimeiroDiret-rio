@@ -1,0 +1,89 @@
+/ * Configurar propriedades border e padding * /
+# border {
+    largura :  200 px ;
+    altura :  100 px ;
+    fundo : tomate;
+    alinhamento de texto : centro;
+    preenchimento :  20 px ;
+    borda :  5 px em azul sólido;
+}
+
+/ * Configurando o figure e figcaption * /
+# figure {
+    tamanho da fonte :  18 px ;
+    peso da fonte : negrito;
+    largura :  280 px ;
+    borda : carmesim 5 px duplo;
+    alinhamento de texto : centro;
+}
+
+# figure  img {
+    largura :  180 px ;
+    altura :  130 px ;
+}
+
+/ * Configurando background-image * /
+# back {
+    largura :  500 px ;
+    altura :  450 px ;
+    imagem de fundo :  url (img / fundo.jpg);
+    repetição de fundo : sem repetição;
+    cor : ouro;
+}
+# back  p {
+    alinhamento de texto : centro;
+}
+/ * Configurando margin * /
+
+# margin {
+    largura :  500 px ;
+    altura :  400 px ;
+    margem :  0 automático;
+    cor de fundo :  rgb ( 125 ,  125 ,  177 );
+}
+# margin  h2 {
+    cor de fundo : darkgoldenrod;
+    margem :  20 px  50 px  30 px  50 px ;
+}
+
+# margin  p {
+    margem :  80 px ;
+}
+
+/ * Configurando float e clear * /
+# float {
+    margem :  20 px ;
+    borda : verde  marinho sólido de 5 px ;
+    alinhamento de texto : centro;
+}
+
+# float  img {
+    flutuar : certo;
+}
+
+# float  p {
+    alinhamento de texto : centro;
+    claro : ambos;
+
+}
+
+/ * Configurando box-sizing e content-box * /
+# sizing {
+    margem :  20 px  20 px  50 px  20 px ;
+    dimensionamento da caixa : caixa de borda;
+    largura :  500 px ;
+    altura :  400 px ;
+    cor de fundo : azul - petróleo;
+    borda :  3 px em marrom sólido;
+
+}
+
+# content {
+    tamanho da caixa : caixa de conteúdo;
+    largura :  500 px ;
+    altura :  400 px ;
+    cor de fundo : rgb ( 0 ,  19 ,  128 );
+    margem :  50 px ;
+    borda :  tijolo refratário sólido de 2 px ;
+
+}
