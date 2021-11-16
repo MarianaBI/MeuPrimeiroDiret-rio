@@ -1,0 +1,45 @@
+* {
+    preenchimento :  0 ;
+    margem :  0 ;
+}
+
+. container {
+    largura :  100 vw ;
+    altura :  100 vh ;
+    display : grade;
+    colunas de modelo de grade :  minmax ( 160 px ,  1 fr ) 360 px  2 fr ;
+    grid-template-areas : 
+    "item1 item1 item1"
+    "item2 item2 item3"
+    ".. item3"
+    "item4 item4 item4" ;
+    intervalo :  10 px  20 px ;
+    justificar o conteúdo : esticar;
+}
+
+. itens {
+    borda :  2 px totalmente preto;
+    margem :  10 px  20 px ;
+}
+
+
+
+. item1 {
+    área da grade : item1;
+    fundo : coral;
+}
+
+. item2 {
+    fundo : ciano;
+    área da grade : item2;
+}
+
+. item3 {
+    fundo : darkcyan;
+    área da grade : item3;
+}
+
+. item4 {
+    fundo : vermelho escuro;
+    área da grade : item4;
+}
