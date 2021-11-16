@@ -1,0 +1,100 @@
+@charset  "utf-8" ;
+/ * Navbar * /
+. navbar {
+ margem inferior :  0 ;
+ cor de fundo :  # 492265  ! importante ;
+}
+
+. navbar  a {
+ cor :  # ffffff  ! important ;
+}
+
+. navbar . bi {
+ tamanho da fonte :  18 px ;
+ cor :  # ffffff ;
+}
+
+/* Mostruário */
+. showcase  img {
+    opacidade :  3 ;
+   }
+
+   / * Fundos * /
+   . bg-alaranjado {
+    cor de fundo :  # F76024 ;
+    cor :  # ffffff ;
+    peso da fonte : negrito;
+   }
+
+   . bg-roxo {
+    cor de fundo :  # 492265 ;
+    cor :  # ffffff ;
+    peso da fonte : negrito;
+   }
+
+   . bg-azul-claro {
+    cor de fundo :  # 00C1C4 ;
+    cor :  # ffffff ;
+    peso da fonte : negrito;
+   }
+
+
+   / * Textos * /
+. texto-alaranjado {
+    cor :  # F76024 ;
+    peso da fonte : negrito;
+    decoração de texto : nenhum;
+   }
+
+   . texto-roxo {
+    cor :  # 492265 ;
+    peso da fonte : negrito;
+    decoração de texto : nenhum;
+   }
+
+   . texto-azul-claro {
+    cor :  # 00C1C4 ;
+    peso da fonte : negrito;
+    decoração de texto : nenhum;
+   }
+
+   / * Efeito ao passar o mouse sobre os grids * /
+   . sobre_ios : hover {
+    fundo :  rgb ( 108 ,  1 ,  142 );
+    fundo :  gradiente linear ( 90 graus ,  rgba ( 108 ,  1 ,  142 ,  1 ) 0 % ,  rgba ( 102 ,  0 ,  134 ,  1 ) 35 % ,  rgba ( 58 ,  0 ,  76 ,  1 ) 10
+0 % );
+ cor :  # ffffff ;
+}
+
+. sobre_ios : pairar  H5 , . sobre_ios : hover  a {
+ cor :  # ffffff ;
+}
+
+. para_voce : hover {
+ fundo :  rgb ( 248 ,  116 ,  62 );
+ fundo :  gradiente linear ( 90 graus ,  rgba ( 248 ,  116 ,  62 ,  1 ) 0 % ,  rgba ( 244 ,  100 ,  43 ,  1 ) 50 % ,  rgba ( 236 ,  69 ,  5 ,  1 )
+100 % );
+ cor :  # ffffff ;
+}
+
+. para_voce : pairar  H5 , . para_voce : hover  a {
+ cor :  # ffffff ;
+}
+
+. para_empresa : hover {
+ fundo :  rgb ( 32 ,  170 ,  226 );
+ fundo :  gradiente linear ( 90 graus ,  rgba ( 32 ,  170 ,  226 ,  1 ) 0 % ,  rgba ( 23 ,  146 ,  206 ,  1 ) 40 % ,  rgba ( 2 ,  87 ,  158 ,  1 )
+100 % );
+ cor :  # ffffff ;
+}
+
+. para_empresa : pairar  H5 , . para_empresa : hover  a {
+ cor :  # ffffff ;
+}
+
+/ * Rodapé * /
+footer  img {
+    preenchimento :  0  10 px  10 px  10 px ;
+    largura :  200 px ;
+    alinhar itens : esquerda;
+}
