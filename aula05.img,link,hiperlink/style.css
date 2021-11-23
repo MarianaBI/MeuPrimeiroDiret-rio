@@ -1,0 +1,24 @@
+/ * * {
+    preenchimento: 0px;
+    margem: 0px;
+}
+.cabeçalho{
+    display: flex;
+    justify-content: espaço entre;
+   
+    largura: 100%;
+}
+.logotipo{
+    largura: 200px;
+}
+.header nav ul li {
+    estilo de lista: nenhum;
+    display: bloco embutido;
+    margem: 20px 5px 20px 0px;
+} * /
+
+corpo {
+    imagem de fundo :  url (img / fun.png);
+    repetição de fundo : sem repetição;
+    posição de fundo : direita;
+}
