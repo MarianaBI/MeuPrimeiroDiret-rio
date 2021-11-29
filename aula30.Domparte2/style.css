@@ -1,0 +1,59 @@
+* {
+    preenchimento :  0 ;
+    margem :  0 ;
+    dimensionamento da caixa : caixa de borda;
+    estilo de lista : nenhum;
+}
+
+corpo {
+    fundo :  gradiente linear ( 96 graus ,  rgb ( 220 ,  106 ,  224 ) ,  rgb ( 238 ,  223 ,  85 ));
+}
+
+. carda {
+    fundo :  rgba ( 228 ,  10 ,  10 ,  0,589 );
+    alinhamento de texto : centro;
+    margem :  5 rem auto;
+    altura :  60 vh ;
+    largura :  60 vw ;
+    raio da borda :  5 rem ;
+}
+
+h1 {
+    preenchimento :  3 rem ;
+    cor :  rgb ( 0 ,  0 ,  0 );
+}
+
+
+ul  li {
+    margem :  0 automático;
+    largura :  40 vw ;
+    altura da linha :  2 ;
+    borda inferior :  rgb sólido de 2 px ( 3 , 2 , 2 ) ;;  
+    fonte - tamanho : 1,5 rem;
+    col ou :  # fff ;
+    posição :  relativa ;
+}
+
+@media ( largura máxima :  1132 px ) {
+    div {
+    altura :  70 vh ;
+    largura :  70 vw ;
+    }
+
+    ul  li {
+        largura :  60 vw ;
+    }
+}
+
+p {
+    tamanho da fonte :  1 rem ;
+    peso da fonte :  700 ;
+    / * cor de fundo: rgb (215, 218, 250); * /
+    posição : absoluta;
+    largura :  6 rem ;
+    inferior :  0 ;
+    esquerda :  0 ;
+    borda :  5 px pontilhada # fff ;
+    cor : preto;
+    preenchimento : ;
+}
