@@ -1,0 +1,75 @@
+    Aluna: Mariana
+
+        Pesquisa:
+
+        Temas de CSS
+    
+ ·O que é CSS?
+  
+  O CSS foi desenvolvido em 1996, pelo World Wide Web Consortium, 
+  para complementar o HTML, uma vez que este não contém tags para formatação de página, 
+  sendo necessária a escrita da marcação para o site. Esse processo se tornou desgastante e caro para desenvolvedores. 
+  Por essa razão, uma nova alternativa foi criada.
+  O CSS tem a tarefa de separar o conteúdo do site de sua apresentação visual, 
+  alterando elementos como cor do texto, fonte e espaçamento entre blocos, assim como todo o aspecto estético de uma página.
+
+ ·Oque é Bootstrap?
+  
+  O Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites 
+  e aplicações responsivas de forma rápida e simples. E pode lidar com sites de desktop e páginas 
+  de dispositivos móveis da mesma forma que organiza e gerencia o layout de um site. 
+  Enquanto o HTML gerencia o conteúdo e a estrutura de uma página na web, o CSS lida com o layout dela.
+
+ ·O que é Flexbox?
+ 
+ O Flexbox tem o objetivo de ajudar o desenvolvedor ou desenvolvedora a criar robustos e flexíveis layouts.
+ Flexbox é similar ao layout em bloco (block),exceto que ele não tem muitas das propriedades que podem ser 
+ usadas num layout em bloco. Flexbox também é mais flexível por distribuir espaço e alinhar conteúdo em formas que 
+ aplicações web e páginas web complexas geralmente precisam. 
+
+ ·O que é Grid CSS?
+ 
+ O Grid CSS é um sistema de estruturação de layout que o CSS nos fornece. 
+ Diferente do Flexbox, que apenas nos permite trabalhar em uma única dimensão, 
+ o Grid CSS nos permite configurar layouts em duas dimensões (linhas e colunas).
+ O Grid CSS, ao contrário da maioria das outras técnicas para construir layouts,foi criado especificamente para 
+ possibilitar os layouts em duas dimensões (2D) que queremos implementar em nossos sites.
+
+        Tema de JS
+
+ ·O que é dom?
+ 
+ O Document Object Model (DOM) é uma interface de programação para os documentos HTML e XML.
+ O DOM representa o documento com nós e objetos, dessa forma, as linguagens de programação podem se conectar à página. 
+ Uma página da Web é um documento. Este documento pode ser exibido na janela do navegador ou como a fonte HTML.
+ Ele fornece uma representação estruturada do documento como uma árvore. 
+ O DOM define métodos que permitem acesso à árvore, para que eles possam alterar a estrutura,estilo e conteúdo do documento.
+
+        Temas de React
+
+ ·O que é React?
+ 
+ React. js é, portanto, uma biblioteca de JavaScript, open source, utilizada para construir user interfaces, 
+ nomeadas para aplicações de página única. O diferencial do React é ser rápida, escalável e simples, 
+ podendo ser usada com outras bibliotecas ou frameworks de JavaScript, como o Angular JS.
+ Tem como um de seus objetivos facilitar a conexão entre diferentes partes de uma página, 
+ portanto seu funcionamento acontece através do que chamamos de componentes.
+
+
+ ·E as vantagens de usá-lo para o desenvolvimento de Single Page Application?
+ 
+ Além de gerar menos custos para renderizar a página, o modelo SPA ainda oferece uma melhor experiência para o usuário 
+ pois o mesmo não terá que ver a página recarregando completamente inúmeras vezes.
+
+
+        BIBLIOGRAFIA:
+
+ W.W.W: alura.com.BR
+ W.W.W: totvs.com/blog/developers
+ W.W.W: blog.betrype.com
+ W.W.W: desenvolvimento.com.br
+ W.W.W: triangulo.dev.com
+ W.W.W: treinaweb.com.br
+ W.W.W: developer.mozilla.org
+ W.W.W: digitalhouse.com
+ W.W.W: codejourney.com.br
