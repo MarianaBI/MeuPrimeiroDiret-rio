@@ -1,0 +1,38 @@
+{
+    "nome" : " exercicio_tema_04_cliques " ,
+    "versão" : " 0.1.0 " ,
+    "privado" : verdadeiro ,
+    "dependências" : {
+      "@ testing-library / jest-dom" : " ^ 5.16.1 " ,
+      "@ testing-library / react " : " ^ 11.2.7 " ,
+      "@ testing-library / user-event" : " ^ 12.8.3 " ,
+      " react " : " ^ 17.0.2 " ,
+      " react -dom" : " ^ 17.0.2 " ,
+      "react-scripts" : " 4.0.3 " ,
+      "web-vitals" : " ^ 1.1.2 "
+    },
+    "scripts" : {
+      "start" : " react-scripts start " ,
+      "build" : " react-scripts build " ,
+      "test" : " teste react-scripts " ,
+      "eject" : " react-scripts eject "
+    },
+    "eslintConfig" : {
+      "estende" : [
+        " react-app " ,
+        " react-app / jest "
+      ]
+    },
+    "lista de navegadores" : {
+      "produção" : [
+        " > 0,2% " ,
+        " não morto " ,
+        " não op_mini all "
+      ],
+      "desenvolvimento" : [
+        " última 1 versão do Chrome " ,
+        " última 1 versão do firefox " ,
+        " última 1 versão safari "
+      ]
+    }
+  }
