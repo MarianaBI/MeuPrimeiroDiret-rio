@@ -1,0 +1,7 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< versão do projeto  = " 4 " >
+  < nome do componente  = " VcsDirectoryMappings " >
+    < mapeamento de  diretório = " "  vcs = " Git " />
+  </ componente >
+</ projeto >
+© 2021 GitHub, Inc.

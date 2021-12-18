@@ -1,0 +1,8 @@
+<? xml version = " 1.0 " encoding = " UTF-8 " ?>
+< versão do projeto  = " 4 " >
+  < nome do componente  = " ProjectModuleManager " >
+    < módulos >
+      < Módulo  fileurl = " file: //$PROJECT_DIR$/JAVAIOS.iml "  filepath = " $ project_dir $ / JAVAIOS.iml " />
+    </ modules >
+  </ componente >
+</ projeto >
